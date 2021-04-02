@@ -135,3 +135,11 @@ th {
     display: table;
     clear: both;
 }
+
+.row a {
+    color: blue;
+}
+
+.row a:hover {
+    color: green;
+}
