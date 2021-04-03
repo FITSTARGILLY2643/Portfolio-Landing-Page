@@ -44,12 +44,8 @@ ul li a:hover {
     background-color: black;
 }
 
-.navbar ul li a:active {
-    background-color: black;
-}
-
-ul li a:visited {
-    background-color: black;
+ul .current a {
+    background-color: brown;
 }
 
 img {
