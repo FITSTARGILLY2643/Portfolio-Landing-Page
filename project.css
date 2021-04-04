@@ -62,9 +62,9 @@ img {
 }
 
 footer {
-    text-align: center;
-    padding: 3px;
-    background-color: #39CCCC;
+    text-align: left;
+    padding: 10px;
+    background-color: black;
     color: white;
 }
 
@@ -138,4 +138,46 @@ th {
 
 .row a:hover {
     color: green;
+}
+
+
+/* Style all font awesome icons */
+
+.fa {
+    padding: 10px;
+    margin: 10px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+/* Add a hover effect if you want */
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+/* Set a specific color for each brand */
+
+
+/* Facebook */
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+
+/* Twitter */
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
 }
